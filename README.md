@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelino Maximos</h1>
 <p align="center">
-  🎓 CS Student @ Cairo University • 🧠 AI Trainer  
+  🎓 CS Student @ Cairo University
 </p>
 
 <p align="center">
@@ -52,27 +52,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcelino-10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelino-10&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/marcelinomaximos/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcelino-maximos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcelinoebied@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
