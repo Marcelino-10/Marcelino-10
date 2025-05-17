@@ -12,11 +12,11 @@
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" height="30"/>
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -24,10 +24,10 @@
 ## 🚀 Frameworks & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=green" height="30"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=spring-boot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -35,19 +35,19 @@
 ## 🗃️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248" height="30"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-000?style=flat&logo=microsoft-sql-server&logoColor=white" height="30"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Libraries
+## 🧰 Tools & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Redux-000?style=flat&logo=redux&logoColor=764ABC" height="30"/>
+  <img src="https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -56,10 +56,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marcelino-maximos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2" height="30"/>
   </a>
   <a href="mailto:marcelinoebied@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=D14836" height="30"/>
   </a>
 </p>
 
