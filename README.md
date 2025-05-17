@@ -7,16 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=Marcelino-10&label=Profile%20views&color=0e75b6&style=flat" alt="marcelinomaximos" />
 </p>
 
----
-
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" height="30"/>
-  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=java" height="30"/>
+  <img src="https://skillicons.dev/icons?i=js" height="30"/>
+  <img src="https://skillicons.dev/icons?i=python" height="30"/>
 </p>
 
 ---
@@ -24,10 +21,9 @@
 ## 🚀 Frameworks & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=61DAFB" height="30"/>
-  <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=green" height="30"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=spring-boot&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=react" height="30"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
+<img src="https://camo.githubusercontent.com/53f0f04650bfc2aef2ec4fd578d1fca0ef7ecafe5a802eea6b8ee597cad9f936/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;">  <img src="https://skillicons.dev/icons?i=django" height="30"/>
 </p>
 
 ---
@@ -35,9 +31,8 @@
 ## 🗃️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248" height="30"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-000?style=flat&logo=microsoft-sql-server&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
 </p>
 
 ---
@@ -45,9 +40,9 @@
 ## 🧰 Tools & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Redux-000?style=flat&logo=redux&logoColor=764ABC" height="30"/>
-  <img src="https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git" height="30"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="30"/>
+  <img src="https://skillicons.dev/icons?i=jwt" height="30"/>
 </p>
 
 ---
@@ -56,10 +51,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marcelino-maximos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
   <a href="mailto:marcelinoebied@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=D14836" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
 </p>
 
