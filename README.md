@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelino Maximos</h1>
 <p align="center">
-  🎓 CS Student @ Cairo University | ECPC Finalist 2024
+  🎓 CS Student @ Cairo University | ECPC Finalist 2024 & 2025
 </p>
 
 <p align="center">
