@@ -1,48 +1,60 @@
 <h1 align="center">Hi 👋, I'm Marcelino Maximos</h1>
+
 <p align="center">
-  🎓 CS Student @ Cairo University | ECPC Finalist 2024 & 2025
+  🎓 CS Student @ Cairo University | 🏆 ECPC Finalist 2024 & 2025 | 💻 AI & Full-Stack Developer
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marcelino-10&label=Profile%20views&color=0e75b6&style=flat" alt="marcelinomaximos" />
 </p>
 
-## 💻 Programming Languages
+---
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
-  <img src="https://skillicons.dev/icons?i=java" height="30"/>
-  <img src="https://skillicons.dev/icons?i=js" height="30"/>
-  <img src="https://skillicons.dev/icons?i=python" height="30"/>
-</p>
+## 👨‍💻 About Me
+
+* Sneior CS student focused on software engineering and AI.
+
+* **Current Focus:** Building *Audoclyphia*, a Siemens-sponsored AI-powered automated software documentation system.
+* **Competitive Programming:** Solved 1000+ problems across various platforms and ranked 100th out of 3000+ teams in the 2025 ECPC Finals.
+* **Core Concepts:** Object-Oriented Programming, SOLID Principles, Design Patterns, and Data Structures[cite: 1].
 
 ---
 
-## 🚀 Frameworks & Technologies
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="30"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
-<img src="https://camo.githubusercontent.com/53f0f04650bfc2aef2ec4fd578d1fca0ef7ecafe5a802eea6b8ee597cad9f936/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;">  <img src="https://skillicons.dev/icons?i=django" height="30"/>
-</p>
+* **Audoclyphia (Siemens Sponsored):** An AI-driven multi-agent system utilizing LangChain and LangGraph to automatically generate comprehensive GitHub documentation via advanced indexing pipelines and dynamic knowledge graphs[cite: 1].
+* **Learning Management System (LMS):** A secure, Java Spring Boot backend service for course management, featuring JWT authentication, role-based access control, and automated email notifications[cite: 1].
+* **Travel Exploration Platform:** A full-stack responsive web application built with the MERN stack (MongoDB, Express, React, Node.js) during the Digital Egypt Pioneers Initiative (DEPI)[cite: 1].
 
 ---
 
-## 🗃️ Databases
+## 🛠️ Technical Arsenal
 
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=java,js,python" height="40" alt="Java, JavaScript, Python"/>
 </p>
 
----
-
-## 🧰 Tools & Libraries
-
+### Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="30"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="30"/>
-  <img src="https://skillicons.dev/icons?i=jwt" height="30"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,django,fastapi" height="40" alt="React, Node.js, Express, Spring Boot, Django, FastAPI"/>
+</p>
+
+### AI, Data & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="40" alt="MongoDB, PostgreSQL, SQL"/>
+</p>
+<p>
+  <em>Technologies:</em> Machine Learning, NLP, RAG, Prompt Engineering, LangChain, LangGraph[cite: 1]
+</p>
+
+### Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,redux,rabbitmq,postman" height="40" alt="Git, Redux, RabbitMQ, Postman"/>
+</p>
+<p>
+  <em>Testing:</em> JUnit, Mockito, Selenium, TestNG
 </p>
 
 ---
@@ -51,13 +63,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marcelino-maximos/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:marcelinoebied@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
 </p>
 
----
-
-_Thanks for visiting!_ 😊
+<p align="center">
+  <em>Thanks for visiting!</em> 😊
+</p>
