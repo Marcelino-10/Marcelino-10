@@ -23,8 +23,8 @@
 ## 🚀 Featured Projects
 
 * **Audoclyphia (Siemens Sponsored):** An AI-driven multi-agent system utilizing LangChain and LangGraph to automatically generate comprehensive GitHub documentation via advanced indexing pipelines and dynamic knowledge graphs[cite: 1].
-* **Learning Management System (LMS):** A secure, Java Spring Boot backend service for course management, featuring JWT authentication, role-based access control, and automated email notifications[cite: 1].
-* **Travel Exploration Platform:** A full-stack responsive web application built with the MERN stack (MongoDB, Express, React, Node.js) during the Digital Egypt Pioneers Initiative (DEPI)[cite: 1].
+* **Learning Management System (LMS):** A secure, Java Spring Boot backend service for course management, featuring JWT authentication, role-based access control, and automated email notifications.
+* **Travel Exploration Platform:** A full-stack responsive web application built with the MERN stack (MongoDB, Express, React, Node.js) during the Digital Egypt Pioneers Initiative (DEPI).
 
 ---
 
@@ -32,8 +32,7 @@
 
 ### Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=java,js,python" height="40" alt="Java, JavaScript, Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" height="40" alt="C++, Java, JavaScript, Python"/>
 </p>
 
 ### Frameworks & Backend
@@ -43,10 +42,10 @@
 
 ### AI, Data & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="40" alt="MongoDB, PostgreSQL, SQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j" height="40" alt="MongoDB, PostgreSQL, Neo4j Graph Database"/>
 </p>
 <p>
-  <em>Technologies:</em> Machine Learning, NLP, RAG, Prompt Engineering, LangChain, LangGraph[cite: 1]
+  <em>Technologies:</em> Machine Learning, NLP, RAG, Prompt Engineering, LangChain, LangGraph
 </p>
 
 ### Testing & Tools
