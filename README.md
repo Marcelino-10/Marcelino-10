@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* Sneior CS student focused on software engineering and AI.
+* Senior CS student focused on software engineering and AI.
 
 * **Current Focus:** Building *Audoclyphia*, a Siemens-sponsored AI-powered automated software documentation system.
 * **Competitive Programming:** Solved 1000+ problems across various platforms and ranked 100th out of 3000+ teams in the 2025 ECPC Finals.
